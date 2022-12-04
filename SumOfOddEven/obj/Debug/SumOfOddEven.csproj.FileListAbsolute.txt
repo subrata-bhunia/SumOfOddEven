@@ -1,0 +1,7 @@
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.exe.config
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.exe
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\bin\Debug\SumOfOddEven.pdb
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.csprojAssemblyReference.cache
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.csproj.CoreCompileInputs.cache
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.exe
+C:\Users\sbhun\source\repos\SumOfOddEven\SumOfOddEven\obj\Debug\SumOfOddEven.pdb
